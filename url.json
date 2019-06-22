@@ -1,0 +1,36 @@
+{
+"base": "http://jw.webvpn.jxust.edu.cn/",
+"main": {
+      "work":"http://jw.webvpn.jxust.edu.cn/jsxsd/framework/xsMain_new.jsp"
+      },
+"kb": {
+      "work":"http://jw.webvpn.jxust.edu.cn/jsxsd/xskb/xskb_list.do"
+      },
+"grade": {
+      "xqs": "http://jw.webvpn.jxust.edu.cn/jsxsd/kscj/cjcx_query",
+      "work": "http://jw.webvpn.jxust.edu.cn/jsxsd/kscj/cjcx_list"
+      },
+"huankao": {
+      "xqs": "http://jw.webvpn.jxust.edu.cn/jsxsd/kscj/hksq_query",
+      "hds": "http://jw.webvpn.jxust.edu.cn/jsxsd/kscj/hksq_query_ajax",
+      "work": "http://jw.webvpn.jxust.edu.cn/jsxsd/kscj/hksq_list"
+      },
+"kaoshi": {
+      "xqs": "http://jw.webvpn.jxust.edu.cn/jsxsd/xsks/xsksap_query",
+      "work": "http://jw.webvpn.jxust.edu.cn/jsxsd/xsks/xsksap_list"
+      },
+"pingjia": {
+      "work": "http://jw.webvpn.jxust.edu.cn/jsxsd/xspj/xspj_find.do"
+      },
+"xuanke": {
+      "work": "http://jw.webvpn.jxust.edu.cn/jsxsd/xsxk/xklc_list"
+      },
+ "pingjia": {
+      "zt_tj": "http://jw.webvpn.jxust.edu.cn/jsxsd/xspj/xspj_zt_save.do",
+      "kc_tj": "http://jw.webvpn.jxust.edu.cn/jsxsd/xspj/xspj_zpf_save.do"
+      },
+ "xuanke": {
+      "gongxuan":"http://jw.webvpn.jxust.edu.cn/jsxsd/xsxkkc/xsxkGgxxkxk?kcxx=&skls=&skxq=&skjc=&sfym=false&sfct=false&szjylb=&sfxx=true&sEcho=0&iColumns=12&sColumns=&iDisplayStart=0&iDisplayLength=1000&mDataProp_0=kch&mDataProp_1=kcmc&mDataProp_2=xf&mDataProp_3=skls&mDataProp_4=sksj&mDataProp_5=skdd&mDataProp_6=xqmc&mDataProp_7=xkrs&mDataProp_8=syrs&mDataProp_9=ctsm&mDataProp_10=szkcflmc&mDataProp_11=czOper",
+      "zhuanxuan":"http://jw.webvpn.jxust.edu.cn/jsxsd/xsxkkc/xsxkXxxk?sEcho=1&iColumns=10&sColumns=&iDisplayStart=0&iDisplayLength=1000&mDataProp_0=kch&mDataProp_1=kcmc&mDataProp_2=fzmc&mDataProp_3=xf&mDataProp_4=skls&mDataProp_5=sksj&mDataProp_6=skdd&mDataProp_7=xqmc&mDataProp_8=ctsm&mDataProp_9=czOper"
+      }
+}
