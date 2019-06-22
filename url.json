@@ -1,6 +1,7 @@
 {
 "base": "http://jw.webvpn.jxust.edu.cn/",
-"main": {"work":"http://jw.webvpn.jxust.edu.cn/jsxsd/framework/xsMain_new.jsp"
+"main": {
+      "work":"http://jw.webvpn.jxust.edu.cn/jsxsd/framework/xsMain_new.jsp"
       },
 "kb": {
       "work":"http://jw.webvpn.jxust.edu.cn/jsxsd/xskb/xskb_list.do"
